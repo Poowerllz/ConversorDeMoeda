@@ -1,0 +1,25 @@
+.Lista{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+}
+.Lista2{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+}
+.Lista3{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+}
+.name{
+    padding: 2.5px;
+    transition-duration: 0.9s;
+     border-radius: 8px;
+     border: 1px solid #000000; /* Green */
+     font-style: normal;
+     margin-left: auto;
+    margin-right: auto;
+    width: 10.2em
+}
